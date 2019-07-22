@@ -1,0 +1,19 @@
+.skillset-parent {
+  background: #515d6b;
+  width: 20%;
+  min-width: 150px;
+  border-right: 4px solid white;
+
+  .skillset-parent-header {
+    text-align: center;
+  }
+
+  h3 {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+    color: orangered;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: red;
+  }
+}
