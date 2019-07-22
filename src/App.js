@@ -1,11 +1,11 @@
-import React from 'react';
-import './App.css';
-import Profile from './pages/Profile';
+import React from "react";
+import "./App.css";
+import Profile from "./pages/Profile";
 
 function App() {
   return (
     <div className="App">
-      <Profile/>
+      <Profile />
     </div>
   );
 }
