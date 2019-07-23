@@ -2,4 +2,22 @@
   background: whitesmoke;
   width: 80%;
   min-width: 450px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+
+  div:not(:last-child) {
+    border-bottom: 4px solid red;
+    padding-bottom: 16px;
+  }
+
+  h3 {
+    padding: 0;
+    margin-top: 0;
+    color: #192a56;
+  }
+
+  .experience-section {
+    height: 50%;
+  }
 }

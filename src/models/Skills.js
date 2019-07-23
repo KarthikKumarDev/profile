@@ -1,14 +1,14 @@
 export const skills = [
   {
-    skillTitle: "Professsional Skills",
+    skillTitle: "PROFESSSIONAL SKILLS",
     skills: ["Xamarin", "Angular", "React"]
   },
   {
-    skillTitle: "Personal Skills",
+    skillTitle: "PERSONAL SKILLS",
     skills: ["Navigating with People", "Straight talking", "Realist"]
   },
   {
-    skillTitle: "Certifications",
+    skillTitle: "CERTIFICATIONS",
     skills: ["Python", "BEC Vantage", "Figma UI/UX Design tool"]
   }
 ];
