@@ -10,14 +10,14 @@ export const experiences = [
     id: "2",
     image: "",
     title: "Intern",
-    imageSrc: "mcc",
+    imageSrc: "cognizant",
     subTitle: "Cognizant"
   },
   {
     id: "3",
     image: "",
     title: "Joint Secretary",
-    imageSrc: "SoftDevIcon",
+    imageSrc: "mcc",
     subTitle: "Microsoft Campus Club"
   }
 ];
